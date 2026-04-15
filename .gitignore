@@ -1,0 +1,10 @@
+.idea/
+*.iml
+.env
+.env.local
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+node_modules/
