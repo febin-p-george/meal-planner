@@ -1,5 +1,5 @@
 // This gets replaced with your real Railway URL in the next steps
-const API_BASE = "REPLACE_WITH_RAILWAY_URL";
+const API_BASE = "https://meal-planner-production-d424.up.railway.app";
 
 function getSessionId() {
   let id = localStorage.getItem("meal_session_id");
