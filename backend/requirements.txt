@@ -3,4 +3,4 @@ uvicorn[standard]
 python-dotenv
 google-adk
 google-genai
-psycopg2-binary
+asyncpg
